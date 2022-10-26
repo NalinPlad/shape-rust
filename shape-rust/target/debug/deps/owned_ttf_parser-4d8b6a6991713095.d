@@ -1,0 +1,9 @@
+/Users/ajitharaiza-singh/Dropbox/My Mac (Ajiths-Air.attlocal.net)/Downloads/coding/shape-rust/shape-rust/target/debug/deps/owned_ttf_parser-4d8b6a6991713095.rmeta: /Users/ajitharaiza-singh/.cargo/registry/src/github.com-1ecc6299db9ec823/owned_ttf_parser-0.6.0/src/lib.rs /Users/ajitharaiza-singh/.cargo/registry/src/github.com-1ecc6299db9ec823/owned_ttf_parser-0.6.0/src/convert.rs /Users/ajitharaiza-singh/.cargo/registry/src/github.com-1ecc6299db9ec823/owned_ttf_parser-0.6.0/src/owned.rs
+
+/Users/ajitharaiza-singh/Dropbox/My Mac (Ajiths-Air.attlocal.net)/Downloads/coding/shape-rust/shape-rust/target/debug/deps/libowned_ttf_parser-4d8b6a6991713095.rlib: /Users/ajitharaiza-singh/.cargo/registry/src/github.com-1ecc6299db9ec823/owned_ttf_parser-0.6.0/src/lib.rs /Users/ajitharaiza-singh/.cargo/registry/src/github.com-1ecc6299db9ec823/owned_ttf_parser-0.6.0/src/convert.rs /Users/ajitharaiza-singh/.cargo/registry/src/github.com-1ecc6299db9ec823/owned_ttf_parser-0.6.0/src/owned.rs
+
+/Users/ajitharaiza-singh/Dropbox/My Mac (Ajiths-Air.attlocal.net)/Downloads/coding/shape-rust/shape-rust/target/debug/deps/owned_ttf_parser-4d8b6a6991713095.d: /Users/ajitharaiza-singh/.cargo/registry/src/github.com-1ecc6299db9ec823/owned_ttf_parser-0.6.0/src/lib.rs /Users/ajitharaiza-singh/.cargo/registry/src/github.com-1ecc6299db9ec823/owned_ttf_parser-0.6.0/src/convert.rs /Users/ajitharaiza-singh/.cargo/registry/src/github.com-1ecc6299db9ec823/owned_ttf_parser-0.6.0/src/owned.rs
+
+/Users/ajitharaiza-singh/.cargo/registry/src/github.com-1ecc6299db9ec823/owned_ttf_parser-0.6.0/src/lib.rs:
+/Users/ajitharaiza-singh/.cargo/registry/src/github.com-1ecc6299db9ec823/owned_ttf_parser-0.6.0/src/convert.rs:
+/Users/ajitharaiza-singh/.cargo/registry/src/github.com-1ecc6299db9ec823/owned_ttf_parser-0.6.0/src/owned.rs:

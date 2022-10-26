@@ -1,0 +1,10 @@
+/Users/ajitharaiza-singh/Dropbox/My Mac (Ajiths-Air.attlocal.net)/Downloads/coding/shape-rust/shape-rust/target/debug/deps/rusttype-57aa0450c1cf2e15.rmeta: /Users/ajitharaiza-singh/.cargo/registry/src/github.com-1ecc6299db9ec823/rusttype-0.9.2/src/lib.rs /Users/ajitharaiza-singh/.cargo/registry/src/github.com-1ecc6299db9ec823/rusttype-0.9.2/src/font.rs /Users/ajitharaiza-singh/.cargo/registry/src/github.com-1ecc6299db9ec823/rusttype-0.9.2/src/geometry.rs /Users/ajitharaiza-singh/.cargo/registry/src/github.com-1ecc6299db9ec823/rusttype-0.9.2/src/outliner.rs
+
+/Users/ajitharaiza-singh/Dropbox/My Mac (Ajiths-Air.attlocal.net)/Downloads/coding/shape-rust/shape-rust/target/debug/deps/librusttype-57aa0450c1cf2e15.rlib: /Users/ajitharaiza-singh/.cargo/registry/src/github.com-1ecc6299db9ec823/rusttype-0.9.2/src/lib.rs /Users/ajitharaiza-singh/.cargo/registry/src/github.com-1ecc6299db9ec823/rusttype-0.9.2/src/font.rs /Users/ajitharaiza-singh/.cargo/registry/src/github.com-1ecc6299db9ec823/rusttype-0.9.2/src/geometry.rs /Users/ajitharaiza-singh/.cargo/registry/src/github.com-1ecc6299db9ec823/rusttype-0.9.2/src/outliner.rs
+
+/Users/ajitharaiza-singh/Dropbox/My Mac (Ajiths-Air.attlocal.net)/Downloads/coding/shape-rust/shape-rust/target/debug/deps/rusttype-57aa0450c1cf2e15.d: /Users/ajitharaiza-singh/.cargo/registry/src/github.com-1ecc6299db9ec823/rusttype-0.9.2/src/lib.rs /Users/ajitharaiza-singh/.cargo/registry/src/github.com-1ecc6299db9ec823/rusttype-0.9.2/src/font.rs /Users/ajitharaiza-singh/.cargo/registry/src/github.com-1ecc6299db9ec823/rusttype-0.9.2/src/geometry.rs /Users/ajitharaiza-singh/.cargo/registry/src/github.com-1ecc6299db9ec823/rusttype-0.9.2/src/outliner.rs
+
+/Users/ajitharaiza-singh/.cargo/registry/src/github.com-1ecc6299db9ec823/rusttype-0.9.2/src/lib.rs:
+/Users/ajitharaiza-singh/.cargo/registry/src/github.com-1ecc6299db9ec823/rusttype-0.9.2/src/font.rs:
+/Users/ajitharaiza-singh/.cargo/registry/src/github.com-1ecc6299db9ec823/rusttype-0.9.2/src/geometry.rs:
+/Users/ajitharaiza-singh/.cargo/registry/src/github.com-1ecc6299db9ec823/rusttype-0.9.2/src/outliner.rs:

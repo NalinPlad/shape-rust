@@ -1,0 +1,10 @@
+/Users/ajitharaiza-singh/Dropbox/My Mac (Ajiths-Air.attlocal.net)/Downloads/coding/shape-rust/shape-rust/target/debug/deps/weezl-a65f7c04431c7f04.rmeta: /Users/ajitharaiza-singh/.cargo/registry/src/github.com-1ecc6299db9ec823/weezl-0.1.7/src/lib.rs /Users/ajitharaiza-singh/.cargo/registry/src/github.com-1ecc6299db9ec823/weezl-0.1.7/src/decode.rs /Users/ajitharaiza-singh/.cargo/registry/src/github.com-1ecc6299db9ec823/weezl-0.1.7/src/encode.rs /Users/ajitharaiza-singh/.cargo/registry/src/github.com-1ecc6299db9ec823/weezl-0.1.7/src/error.rs
+
+/Users/ajitharaiza-singh/Dropbox/My Mac (Ajiths-Air.attlocal.net)/Downloads/coding/shape-rust/shape-rust/target/debug/deps/libweezl-a65f7c04431c7f04.rlib: /Users/ajitharaiza-singh/.cargo/registry/src/github.com-1ecc6299db9ec823/weezl-0.1.7/src/lib.rs /Users/ajitharaiza-singh/.cargo/registry/src/github.com-1ecc6299db9ec823/weezl-0.1.7/src/decode.rs /Users/ajitharaiza-singh/.cargo/registry/src/github.com-1ecc6299db9ec823/weezl-0.1.7/src/encode.rs /Users/ajitharaiza-singh/.cargo/registry/src/github.com-1ecc6299db9ec823/weezl-0.1.7/src/error.rs
+
+/Users/ajitharaiza-singh/Dropbox/My Mac (Ajiths-Air.attlocal.net)/Downloads/coding/shape-rust/shape-rust/target/debug/deps/weezl-a65f7c04431c7f04.d: /Users/ajitharaiza-singh/.cargo/registry/src/github.com-1ecc6299db9ec823/weezl-0.1.7/src/lib.rs /Users/ajitharaiza-singh/.cargo/registry/src/github.com-1ecc6299db9ec823/weezl-0.1.7/src/decode.rs /Users/ajitharaiza-singh/.cargo/registry/src/github.com-1ecc6299db9ec823/weezl-0.1.7/src/encode.rs /Users/ajitharaiza-singh/.cargo/registry/src/github.com-1ecc6299db9ec823/weezl-0.1.7/src/error.rs
+
+/Users/ajitharaiza-singh/.cargo/registry/src/github.com-1ecc6299db9ec823/weezl-0.1.7/src/lib.rs:
+/Users/ajitharaiza-singh/.cargo/registry/src/github.com-1ecc6299db9ec823/weezl-0.1.7/src/decode.rs:
+/Users/ajitharaiza-singh/.cargo/registry/src/github.com-1ecc6299db9ec823/weezl-0.1.7/src/encode.rs:
+/Users/ajitharaiza-singh/.cargo/registry/src/github.com-1ecc6299db9ec823/weezl-0.1.7/src/error.rs:

@@ -1,0 +1,10 @@
+/Users/ajitharaiza-singh/Dropbox/My Mac (Ajiths-Air.attlocal.net)/Downloads/coding/shape-rust/shape-rust/target/release/deps/weezl-8d636c3bae3e5aad.rmeta: /Users/ajitharaiza-singh/.cargo/registry/src/github.com-1ecc6299db9ec823/weezl-0.1.7/src/lib.rs /Users/ajitharaiza-singh/.cargo/registry/src/github.com-1ecc6299db9ec823/weezl-0.1.7/src/decode.rs /Users/ajitharaiza-singh/.cargo/registry/src/github.com-1ecc6299db9ec823/weezl-0.1.7/src/encode.rs /Users/ajitharaiza-singh/.cargo/registry/src/github.com-1ecc6299db9ec823/weezl-0.1.7/src/error.rs
+
+/Users/ajitharaiza-singh/Dropbox/My Mac (Ajiths-Air.attlocal.net)/Downloads/coding/shape-rust/shape-rust/target/release/deps/libweezl-8d636c3bae3e5aad.rlib: /Users/ajitharaiza-singh/.cargo/registry/src/github.com-1ecc6299db9ec823/weezl-0.1.7/src/lib.rs /Users/ajitharaiza-singh/.cargo/registry/src/github.com-1ecc6299db9ec823/weezl-0.1.7/src/decode.rs /Users/ajitharaiza-singh/.cargo/registry/src/github.com-1ecc6299db9ec823/weezl-0.1.7/src/encode.rs /Users/ajitharaiza-singh/.cargo/registry/src/github.com-1ecc6299db9ec823/weezl-0.1.7/src/error.rs
+
+/Users/ajitharaiza-singh/Dropbox/My Mac (Ajiths-Air.attlocal.net)/Downloads/coding/shape-rust/shape-rust/target/release/deps/weezl-8d636c3bae3e5aad.d: /Users/ajitharaiza-singh/.cargo/registry/src/github.com-1ecc6299db9ec823/weezl-0.1.7/src/lib.rs /Users/ajitharaiza-singh/.cargo/registry/src/github.com-1ecc6299db9ec823/weezl-0.1.7/src/decode.rs /Users/ajitharaiza-singh/.cargo/registry/src/github.com-1ecc6299db9ec823/weezl-0.1.7/src/encode.rs /Users/ajitharaiza-singh/.cargo/registry/src/github.com-1ecc6299db9ec823/weezl-0.1.7/src/error.rs
+
+/Users/ajitharaiza-singh/.cargo/registry/src/github.com-1ecc6299db9ec823/weezl-0.1.7/src/lib.rs:
+/Users/ajitharaiza-singh/.cargo/registry/src/github.com-1ecc6299db9ec823/weezl-0.1.7/src/decode.rs:
+/Users/ajitharaiza-singh/.cargo/registry/src/github.com-1ecc6299db9ec823/weezl-0.1.7/src/encode.rs:
+/Users/ajitharaiza-singh/.cargo/registry/src/github.com-1ecc6299db9ec823/weezl-0.1.7/src/error.rs:

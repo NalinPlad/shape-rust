@@ -1,0 +1,10 @@
+/Users/ajitharaiza-singh/Dropbox/My Mac (Ajiths-Air.attlocal.net)/Downloads/coding/shape-rust/shape-rust/target/release/deps/memoffset-9964b1feca7c8c31.rmeta: /Users/ajitharaiza-singh/.cargo/registry/src/github.com-1ecc6299db9ec823/memoffset-0.6.5/src/lib.rs /Users/ajitharaiza-singh/.cargo/registry/src/github.com-1ecc6299db9ec823/memoffset-0.6.5/src/raw_field.rs /Users/ajitharaiza-singh/.cargo/registry/src/github.com-1ecc6299db9ec823/memoffset-0.6.5/src/offset_of.rs /Users/ajitharaiza-singh/.cargo/registry/src/github.com-1ecc6299db9ec823/memoffset-0.6.5/src/span_of.rs
+
+/Users/ajitharaiza-singh/Dropbox/My Mac (Ajiths-Air.attlocal.net)/Downloads/coding/shape-rust/shape-rust/target/release/deps/libmemoffset-9964b1feca7c8c31.rlib: /Users/ajitharaiza-singh/.cargo/registry/src/github.com-1ecc6299db9ec823/memoffset-0.6.5/src/lib.rs /Users/ajitharaiza-singh/.cargo/registry/src/github.com-1ecc6299db9ec823/memoffset-0.6.5/src/raw_field.rs /Users/ajitharaiza-singh/.cargo/registry/src/github.com-1ecc6299db9ec823/memoffset-0.6.5/src/offset_of.rs /Users/ajitharaiza-singh/.cargo/registry/src/github.com-1ecc6299db9ec823/memoffset-0.6.5/src/span_of.rs
+
+/Users/ajitharaiza-singh/Dropbox/My Mac (Ajiths-Air.attlocal.net)/Downloads/coding/shape-rust/shape-rust/target/release/deps/memoffset-9964b1feca7c8c31.d: /Users/ajitharaiza-singh/.cargo/registry/src/github.com-1ecc6299db9ec823/memoffset-0.6.5/src/lib.rs /Users/ajitharaiza-singh/.cargo/registry/src/github.com-1ecc6299db9ec823/memoffset-0.6.5/src/raw_field.rs /Users/ajitharaiza-singh/.cargo/registry/src/github.com-1ecc6299db9ec823/memoffset-0.6.5/src/offset_of.rs /Users/ajitharaiza-singh/.cargo/registry/src/github.com-1ecc6299db9ec823/memoffset-0.6.5/src/span_of.rs
+
+/Users/ajitharaiza-singh/.cargo/registry/src/github.com-1ecc6299db9ec823/memoffset-0.6.5/src/lib.rs:
+/Users/ajitharaiza-singh/.cargo/registry/src/github.com-1ecc6299db9ec823/memoffset-0.6.5/src/raw_field.rs:
+/Users/ajitharaiza-singh/.cargo/registry/src/github.com-1ecc6299db9ec823/memoffset-0.6.5/src/offset_of.rs:
+/Users/ajitharaiza-singh/.cargo/registry/src/github.com-1ecc6299db9ec823/memoffset-0.6.5/src/span_of.rs:
